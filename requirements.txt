@@ -1,4 +1,4 @@
-tensorflow==2.10.0
+tensorflow==2.12.1
 tensorboard==2.10.0
 keras==3.9.0
 typing-extensions==4.5.0
